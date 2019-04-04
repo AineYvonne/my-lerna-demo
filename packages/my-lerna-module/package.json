@@ -1,5 +1,5 @@
 {
-  "name": "package1",
+  "name": "mtxiao_package_1",
   "version": "1.0.3",
   "description": "新建package1版本1.0.0",
   "main": "index.js",
@@ -7,5 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mtxiao",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "de683c421e1dd3e1abf1909a746140d8a4afeb4d"
 }
